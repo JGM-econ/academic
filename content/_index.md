@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "4rem"
 
 sections:
   - block: resume-biography-3
@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: resume.pdf
+        url: static/uploads/resume.pdf
     design:
       css_class: dark
       background:
@@ -55,16 +55,6 @@ sections:
     id: vita
     content:
       title: Vita
-  - block: biography
-    content:
-      username: admin
-    design:
-      banner:
-        # Upload your cover image to the `assets/media/` folder and reference it here
-        filename: stacked-peaks.jpg
-      biography:
-        # Customize the style of your biography text
-        style: 'text-align: justify; font-size: 0.8em;'
   - block: experience
     content:
       username: admin
