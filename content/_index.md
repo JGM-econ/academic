@@ -41,18 +41,16 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
+  - block: markdown
     id: teaching
     content:
+      title: Teaching
       button:
         text: Teaching Statement
         url: uploads/Teaching_statement.pdf
-      title: Teaching
       filters:
         folders:
           - teaching
-    design:
-      columns: 2
   - block: collection
     id: vita
     content:
@@ -66,6 +64,5 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
-      columns: 2
 
 ---
