@@ -52,7 +52,6 @@ sections:
         folders:
           - teaching
     design:
-      view: article-grid
       columns: 2
   - block: collection
     id: vita
