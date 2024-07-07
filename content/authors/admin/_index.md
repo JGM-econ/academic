@@ -30,7 +30,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: pronunciation.svg
+  - icon: assets/media/icons/pronunciation.svg
     url: https://www.howtopronounce.com/french/jean-guillaume
   - icon: at-symbol
     url: 'mailto:jean-guillaume.magre@economics.ox.ac.uk'
@@ -100,4 +100,4 @@ work:
 
 ## Welcome to my website!
 
-I am a Ph.D. Candidate in Economics at the University of Oxford, under the supervision of [Professor Michael McMahon](https://mcmahonecon.com/). I am currently interested in topics in Macrofinance, at the intersection of Monetary Economics, Intermediary Asset Pricing, and Market Microstructure.
+I am a PhD Candidate in Economics at the University of Oxford, under the supervision of [Professor Michael McMahon](https://mcmahonecon.com/). I am currently interested in topics in Macrofinance, at the intersection of Monetary Economics, Intermediary Asset Pricing, and Market Microstructure.
