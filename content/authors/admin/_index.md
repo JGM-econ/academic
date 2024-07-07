@@ -30,7 +30,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: pronunciation1.svg
+  - icon: assets/media/icons/pronunciation1.svg
     url: https://www.howtopronounce.com/french/jean-guillaume
   - icon: at-symbol
     url: 'mailto:jean-guillaume.magre@economics.ox.ac.uk'
@@ -63,35 +63,35 @@ work:
   - position: PhD Intern in Research
     company_name: Bank of England
     company_url: https://www.bankofengland.co.uk/
-    company_logo: assets/media/Bank_of_England_Logo.png
+    company_logo: Bank_of_England_Logo.png
     date_start: 2023-09-25
     date_end: 2023-12-15
     summary: ''
   - position: Market Economist in Financial Stability
     company_name: Banque de France
     company_url: https://www.banque-france.fr/
-    company_logo: assets/media/Banque_de_France_logo.png
+    company_logo: Banque_de_France_logo.png
     date_start: 2020-01-01
     date_end: 2021-09-01
     summary: ''
   - position: Research Analyst in Monetary Policy
     company_name: European Central Bank
     company_url: https://www.ecb.europa.eu/home/html/index.en.html
-    company_logo: assets/media/european_central_bank_logo.png
+    company_logo: european_central_bank_logo.png
     date_start: 2019-07-01
     date_end: 2019-12-31
     summary: ''
   - position: Research Analyst in Financial Stability
     company_name: European Central Bank
     company_url: https://www.ecb.europa.eu/home/html/index.en.html
-    company_logo: assets/media/european_central_bank_logo.png
+    company_logo: european_central_bank_logo.png
     date_start: 2018-03-01
     date_end: 2018-07-31
     summary: ''
   - position: Research Assistant in Cross Asset Research
     company_name: Société Générale CIB New York
     company_url: https://americas.societegenerale.com/en/
-    company_logo: assets/media/SG_logo.png
+    company_logo: SG_logo.png
     date_start: 2017-09-01
     date_end: 2018-02-28
     summary: ''
