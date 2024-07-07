@@ -3,7 +3,7 @@
 title: Jean-Guillaume Magré
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: {{< audio src="assets/media/pronouciation.m4a" >}}
 
 # Full name (for SEO)
 first_name: Jean-Guillaume
@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: pronunciation
-    {{< audio src="assets/media/pronouciation.m4a" >}}
+    url: https://www.howtopronounce.com/french/jean-guillaume
   - icon: at-symbol
     url: 'mailto:jean-guillaume.magre@economics.ox.ac.uk'
     label: E-mail Me
