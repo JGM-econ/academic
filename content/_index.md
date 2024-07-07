@@ -52,7 +52,12 @@ sections:
         folders:
           - teaching
       design:
-        column: 2
+        # Choose how many columns the section has. Valid values: '1' or '2'.
+        columns: '1'
+        # Choose your content listing view - here we use the `showcase` view
+        view: showcase
+        # For the Showcase view, do you want to flip alternate rows?
+        flip_alt_rows: true
   - block: resume-experience
     id: vita
     content:
