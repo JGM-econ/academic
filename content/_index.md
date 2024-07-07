@@ -55,19 +55,23 @@ sections:
     id: vita
     content:
       title: Vita
-      filters:
-        folders:
-          - event
+  - block: biography
+    content:
+      username: admin
     design:
-      view: article-grid
-      columns: 2
-  - block: resume-experience
+      banner:
+        # Upload your cover image to the `assets/media/` folder and reference it here
+        filename: stacked-peaks.jpg
+      biography:
+        # Customize the style of your biography text
+        style: 'text-align: justify; font-size: 0.8em;'
+  - block: experience
     content:
       username: admin
     design:
       # Hugo date format
-      date_format: 'Jan 2006'
+      date_format: 'January 2006'
       # Education or Experience section first?
-      is_education_first: true
-      columns: 2
+      is_education_first: false
+
 ---
