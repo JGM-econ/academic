@@ -3,7 +3,7 @@
 title: Jean-Guillaume Magré
 
 # Name pronunciation (optional)
-name_pronunciation: {{< audio src="assets/media/pronouciation.m4a" >}}
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Jean-Guillaume
