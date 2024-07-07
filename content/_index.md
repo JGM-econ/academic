@@ -45,15 +45,15 @@ sections:
     id: teaching
     content:
       title: Teaching
-      button:
-        text: Teaching Statement
-        url: uploads/Teaching_statement.pdf
       filters:
         folders:
           - teaching
     design:
       view: article-grid
       columns: 2
+    button:
+        text: Teaching Statement
+        url: uploads/Teaching_statement.pdf
   - block: collection
     id: vita
     content:
