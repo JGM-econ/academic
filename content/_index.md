@@ -44,13 +44,13 @@ sections:
   - block: collection
     id: teaching
     content:
+      button:
+        text: Teaching Statement
+        url: uploads/Teaching_statement.pdf
       title: Teaching
       filters:
         folders:
           - teaching
-      button:
-        text: Teaching Statement
-        url: uploads/Teaching_statement.pdf
     design:
       view: article-grid
       columns: 2
@@ -58,6 +58,7 @@ sections:
     id: vita
     content:
       title: Vita
+      text: test
   - block: resume-experience
     content:
       username: admin
