@@ -53,7 +53,7 @@ sections:
           - teaching
       design:
         column: 2
-  - block: collection
+  - block: resume-experience
     id: vita
     content:
       title: Vita
