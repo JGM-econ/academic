@@ -58,14 +58,14 @@ education:
     date_end: 2018-07-01
 
 work:
-  - position: PhD Intern
+  - position: PhD Intern in Research
     company_name: Bank of England
     company_url: https://www.bankofengland.co.uk/
     company_logo: assets/media/Bank_of_England_Logo.png
     date_start: 2023-09-25
     date_end: 2023-12-15
     summary: ''
-  - position: Market Economist
+  - position: Market Economist in Financial Stability
     company_name: Banque de France
     company_url: https://www.banque-france.fr/
     company_logo: assets/media/Banque_de_France_logo.png
