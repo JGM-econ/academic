@@ -59,7 +59,7 @@ sections:
     content:
       title: Vita
       text: test
-  - block: resume-experience
+  - block: experience
     content:
       username: admin
     design:
