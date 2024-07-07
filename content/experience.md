@@ -5,6 +5,7 @@ type: landing
 
 design:
   spacing: '5rem'
+  columns: 2
 
 # Note: `username` refers to the user's folder name in `content/authors/`
 
