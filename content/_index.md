@@ -41,7 +41,7 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: markdown
+  - block: collection
     id: teaching
     content:
       title: Teaching
@@ -58,7 +58,7 @@ sections:
     id: vita
     content:
       title: Vita
-  - block: experience
+  - block: resume-experience
     content:
       username: admin
     design:
