@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: resume.pdf
     design:
       css_class: dark
       background:
@@ -44,7 +44,7 @@ sections:
   - block: collection
     id: teaching
     content:
-      title: teaching
+      title: Teaching
       filters:
         folders:
           - event
