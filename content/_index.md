@@ -60,6 +60,13 @@ sections:
           - event
     design:
       view: article-grid
-      columns: 1
-
+      columns: 2
+  - block: resume-experience
+    content:
+      username: admin
+    design:
+      # Hugo date format
+      date_format: '2006'
+      # Education or Experience section first?
+      is_education_first: true
 ---
