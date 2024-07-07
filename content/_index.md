@@ -16,7 +16,7 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
+        text: Download my CV
         url: uploads/resume.pdf
     design:
       css_class: dark
@@ -48,12 +48,12 @@ sections:
       filters:
         folders:
           - teaching
+      button:
+        text: Teaching Statement
+        url: uploads/Teaching_statement.pdf
     design:
       view: article-grid
       columns: 2
-    button:
-        text: Teaching Statement
-        url: uploads/Teaching_statement.pdf
   - block: collection
     id: vita
     content:
