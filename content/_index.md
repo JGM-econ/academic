@@ -51,12 +51,12 @@ sections:
       filters:
         folders:
           - teaching
+      design:
+        column: 2
   - block: collection
     id: vita
     content:
       title: Vita
-      text: test
-  - block: experience
     content:
       username: admin
     design:
