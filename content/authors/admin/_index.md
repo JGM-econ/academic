@@ -30,7 +30,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: pronunciation
+  - icon: pronunciation.svg
     url: https://www.howtopronounce.com/french/jean-guillaume
   - icon: at-symbol
     url: 'mailto:jean-guillaume.magre@economics.ox.ac.uk'
