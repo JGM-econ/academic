@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Internal Capital Frictions in Intermediaries and Exchange Rate Dynamics"
 authors:
 - admin
 - Gabor Pinter
