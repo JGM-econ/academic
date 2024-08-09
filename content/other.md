@@ -1,17 +1,9 @@
 ---
-title: 'Other'
-date: 2024-05-19
+header:
+  caption: ""
+  image: uploads/bandeau_research.jpg
+title: Courses
 type: page
-
-design:
-  # Section spacing
-  spacing: '5rem'
-
-# Page sections
-sections:
-  - block: markdown
-    content:
-      title: Sailing
-      text: Offshore captain of the [Oxford University Yachting Club](ouyc.co.uk).
-
 ---
+
+I am the Offshore Captain of the [Oxford University Yachting Club](ouyc.co.uk).
