@@ -49,5 +49,7 @@ features:
   privacy_pack:
     enable: false
 show_related: false
-
+icon:
+  pack:
+    ai: true
 
