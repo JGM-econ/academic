@@ -33,8 +33,7 @@ profiles:
   - icon: envelope
     url: 'mailto:jean-guillaume.magre@economics.ox.ac.uk'
     label: E-mail Me
-  - icon: cv
-    icon_pack: "ai"
+  - icon: brands/cv
     link: uploads/Academic_CV.pdf
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/jean-guillaume-magre
