@@ -1,7 +1,7 @@
 ---
 title: 'Other'
 date: 2024-05-19
-type: landing
+type: page
 
 design:
   # Section spacing
@@ -9,9 +9,9 @@ design:
 
 # Page sections
 sections:
-  - block: collection
+  - block: markdown
     content:
       title: Sailing
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: Offshore captain of the [Oxford University Yachting Club](ouyc.co.uk).
 
 ---
