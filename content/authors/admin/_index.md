@@ -39,7 +39,7 @@ profiles:
     url: https://www.linkedin.com/in/jean-guillaume-magre
   - icon: brands/x
     url: https://x.com/JGMagre
-  - icon: pronunciation.svg
+  - icon: custom/pronunciation.svg
     url: https://www.howtopronounce.com/french/jean-guillaume
 
 interests:
