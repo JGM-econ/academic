@@ -1,8 +1,7 @@
 ---
 header:
   caption: ""
-  image: uploads/bandeau_research.jpg
-title: Courses
+title: Sailing
 type: page
 ---
 
