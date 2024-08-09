@@ -39,8 +39,11 @@ profiles:
     url: https://www.linkedin.com/in/jean-guillaume-magre
   - icon: brands/x
     url: https://x.com/JGMagre
-  - icon: custom/pronunciation.svg
-    url: https://www.howtopronounce.com/french/jean-guillaume
+  - icon: custom/pronunciation
+    link: uploads/pronunciation.m4a
+    
+# {{< audio src="pronunciation.m4a" >}}
+#    url: https://www.howtopronounce.com/french/jean-guillaume
 
 interests:
   - Macroeconomics
