@@ -40,7 +40,6 @@ profiles:
   - icon: brands/x
     url: https://x.com/JGMagre
   - icon: :sound:
-    icon_pack = "emoji"
     link: uploads/pronunciation.m4a
     
 # {{< audio src="pronunciation.m4a" >}}
