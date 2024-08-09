@@ -36,7 +36,7 @@ sections:
       title: Research
       header:
         image: uploads/bandeau_research.jpg
-      text: ""
+      text: "test"
       filters:
         folders:
           - publication
@@ -47,7 +47,7 @@ sections:
     id: teaching
     content:
       title: Teaching
-      text: ""
+      text: "test"
       filters:
         folders:
           - teaching
