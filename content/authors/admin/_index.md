@@ -33,8 +33,7 @@ profiles:
   - icon: envelope
     url: 'mailto:jean-guillaume.magre@economics.ox.ac.uk'
     label: E-mail Me
-  - icon: cv
-    icon_pack: ai
+  - icon: brands/cv
     link: uploads/Academic_CV.pdf
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/jean-guillaume-magre
@@ -103,4 +102,6 @@ work:
 
 ## Welcome to my website!
 
-I am a PhD Candidate in Economics at the University of Oxford, under the supervision of [Professor Michael McMahon](https://mcmahonecon.com/). I am currently interested in topics in Macrofinance, at the intersection of Monetary Economics, Intermediary Asset Pricing, and Market Microstructure.
+I am a PhD Candidate in the [Department of Economics](https://www.economics.ox.ac.uk/) and [Corpus Christi College](https://www.ccc.ox.ac.uk) at the [University of Oxford](https://www.ox.ac.uk/), under the supervision of [Professor Michael McMahon](https://mcmahonecon.com/).
+
+I am currently interested in topics in Macrofinance, at the intersection of Monetary Economics, Intermediary Asset Pricing, and Market Microstructure.
