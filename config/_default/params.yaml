@@ -52,4 +52,6 @@ show_related: false
 extensions:
   academicons:
     enable: true
+  emoji:
+    enable: true
 

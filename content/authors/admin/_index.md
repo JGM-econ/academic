@@ -34,13 +34,14 @@ profiles:
     url: 'mailto:jean-guillaume.magre@economics.ox.ac.uk'
     label: E-mail Me
   - icon: cv
-    icon_pack: ai
+    icon_pack: "ai"
     link: uploads/Academic_CV.pdf
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/jean-guillaume-magre
   - icon: brands/x
     url: https://x.com/JGMagre
-  - icon: 
+  - icon: ":sound:"
+    icon_pack = "emoji"
     link: uploads/pronunciation.m4a
     
 # {{< audio src="pronunciation.m4a" >}}
