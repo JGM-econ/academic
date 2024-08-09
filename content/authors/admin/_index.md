@@ -39,7 +39,7 @@ profiles:
     url: https://www.linkedin.com/in/jean-guillaume-magre
   - icon: brands/x
     url: https://x.com/JGMagre
-  - icon: ":sound:"
+  - icon: :sound:
     icon_pack = "emoji"
     link: uploads/pronunciation.m4a
     
