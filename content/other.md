@@ -1,6 +1,6 @@
 ---
 header:
-  caption: ""
+  caption: "test"
   image: uploads/bandeau_sailing1.jpg
 title: Sailing
 type: page
