@@ -3,6 +3,7 @@
 title: ""
 date: 2022-10-24
 type: landing
+text-align: justify
 
 design:
   # Default section spacing
