@@ -1,3 +1,3 @@
 # Jean-Guillaume Magré
 
-My website, based on Hugo Academic CV Template.
+My [website](https://jeanguillaumemagre.com), based on Hugo Academic CV Template.

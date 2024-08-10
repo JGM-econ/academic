@@ -8,5 +8,5 @@ reading_time: false
 text-align: justify
 ---
 
-I am the Offshore Captain of the [Oxford University Yachting Club](ouyc.co.uk).
+I am the Offshore Captain of the [Oxford University Yachting Club](https://ouyc.co.uk).
 
