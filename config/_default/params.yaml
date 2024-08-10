@@ -53,3 +53,5 @@ icon:
   pack:
     ai: true
 
+footer:
+  enable: false

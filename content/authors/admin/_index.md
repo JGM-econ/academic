@@ -55,15 +55,17 @@ education:
     institution: University of Oxford
     date_start: 2021-10-01
     date_end: 2026-07-01
-    summary: 'Ongoing'
+    summary: ''
   - area: MSc in Economics
     institution: London School of Economics
     date_start: 2018-09-01
     date_end: 2019-07-01
+    summary: ''
   - area: MSc in Mathematical Engineering
     institution: Ecole Nationale des Ponts et Chaussées
     date_start: 2015-09-01
     date_end: 2018-07-01
+    summary: ''
 
 work:
   - position: PhD Intern in Research
