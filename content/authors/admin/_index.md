@@ -55,6 +55,7 @@ education:
     institution: University of Oxford
     date_start: 2021-10-01
     date_end: 2026-07-01
+    summary: 'Ongoing'
   - area: MSc in Economics
     institution: London School of Economics
     date_start: 2018-09-01
