@@ -10,7 +10,7 @@ share: false
 ---
 
 **Sailing provides a unique environment to grow and learn.** I have been sailing since I was a kid, first on small dinghies and catamarans, and then on yachts when cruising with my family. Now, as Offshore Captain of the [Oxford University Yacht Club](https://ouyc.co.uk), I organize races and cruises, develop sponsorships opportunities, conduct risk assessments, and contribute as member of the Club’s Junior 
-Committee. I am also in the University sailing team, participating in various competitions including the [British Universities Sailing Association](https://busa.co.uk/) Yachting Championship and the Fastnet Race, usually on a Prima 38 or an Oceanis 37. I mainly sail in the Solent, on the South coast of England between the Isle of Wight and the mainland, where a lot of sailing happens in the United Kingdom, most notably Cowes Week, a major Regatta. The area has phenomenal tides, and the conditions can be particularly challenging, as much in Winter time as during the Summer, teaching humility and resilience! 
+Committee. I am also in the University sailing team, participating in various competitions including the [British Universities Sailing Association](https://busa.co.uk/) Yachting Championship and the Fastnet Race, usually on a Prima 38 or an Oceanis 37. I mainly sail in the Solent, on the South coast of England between the Isle of Wight and the mainland, where a lot of sailing happens in the United Kingdom, most notably Cowes Week, a major Regatta. The area has phenomenal tides, and the conditions can be particularly challenging, as much in Winter time as during the Summer, teaching resilience! 
 
 Sailing is a sport in which I developed leadership and management skills that I use in my professional and academic career. I have been struck by the parallels between sailing and the challenges faced in work contexts, particularly around leadership, risk management, and teamwork. I have outlined below some of these key lessons I learned. As such, I feel that **sailing is an incredible school of business and management!**
 
@@ -25,13 +25,13 @@ Contrary to smaller boats like dinghies, yacht racing requires a full crew with 
 -	the Pit manages the lines, especially during sail hoists and drops,
 -	the Mast changes the sails and assists with the rigging,
 -	the Bow manages the front of the boat during maneuvers, especially when changing sails.
+
 **Communication is key.** There are indeed many, many things happening at the same time. This is true both on the boat, e.g. during a maneuver that requires coordination across the crew, and outside of it, e.g. the other boats, the marks or the dangers in the water. It is very easy to get overloaded with information, but lack of communication can likewise be dangerous given the number of moving parts on the boat. The effectiveness and safety of the crew therefore relies on communication and clarity is essential to achieve coordinated teamwork.
 
 
 ### Human Management
 
-Managing a crew of eight people on a yacht requires effective leadership, clear communication, and delegation. The crew must work as a cohesive unit, with each member understanding their role and contributing to the overall mission.
-Leadership in this context is similar to managing a business team. It involves directing the crew, resolving any conflicts, and ensuring that everyone is focused on the same objectives. Delegation is also crucial; each crew member must be empowered to make decisions within their area of responsibility.
+There is no way around it: **managing a crew of eight people stuck together in a very confined space is a real challenge**. It requires effective leadership, clear communication, and delegation to make sure the experience works for everyone. This means assigning chores (simply putting the kettle on the gas can be a challenge between tacks when the boat is seriously heeling!), having clear rules for communal spaces (usually the entire cabin…), and keeping the spirit of camaraderie.
 
 
 ### Risk Management
@@ -41,7 +41,7 @@ Leadership in this context is similar to managing a business team. It involves d
 
 ### Decision-Making Under Pressure
 
-Because the conditions can be unpredictable and there are so many parameters and moving parts, sailing often requires making quick decisions under pressure. Whether responding to sudden weather changes or adjusting the course during a race, these decisions must sometimes be made swiftly while making sure the rest of the crew is aware of what is happening and ready to anticipate the movements of the boat. 
+Because the conditions can be unpredictable and there are so many parameters and moving parts, sailing often requires making quick decisions under pressure. Whether responding to sudden weather changes or adjusting the course during a race, these **decisions must sometimes be made swiftly while making sure the rest of the crew is *aware** of what is happening and ready to anticipate the movements of the boat. 
 
 
 ### Passage Planning and Provisioning
