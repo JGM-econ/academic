@@ -41,7 +41,7 @@ There is no way around it: **managing a crew of eight people stuck together in a
 
 ### Decision-Making Under Pressure
 
-Because the conditions can be unpredictable and there are so many parameters and moving parts, sailing often requires making quick decisions under pressure. Whether responding to sudden weather changes or adjusting the course during a race, these **decisions must sometimes be made swiftly while making sure the rest of the crew is *aware** of what is happening and ready to anticipate the movements of the boat. 
+Because the conditions can be unpredictable and there are so many parameters and moving parts, sailing often requires making quick decisions under pressure. Whether responding to sudden weather changes or adjusting the course during a race, these **decisions must sometimes be made swiftly while making sure the rest of the crew is aware** of what is happening and ready to anticipate the movements of the boat. 
 
 
 ### Passage Planning and Provisioning
