@@ -73,8 +73,11 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
+  - block: markdown
+    id: disclaimer
+    content:
+      text: **Disclaimer:** Any views expressed are solely mine. In particular, these views should therefore not be reported as representing the views of the Bank of England or
+members of the Monetary Policy Committee, Financial Policy Committee, or Prudential Regulation Committee.
 
 ---
 
-**Disclaimer:** Any views expressed are solely mine. In particular, these views should therefore not be reported as representing the views of the Bank of England or
-members of the Monetary Policy Committee, Financial Policy Committee, or Prudential Regulation Committee.
