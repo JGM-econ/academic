@@ -9,6 +9,9 @@ text-align: justify
 share: false
 ---
 
+<img style="float: right;" src="Bateau3.jpg">
+
+
 ![Somewhere in the Solent](Bateau3.jpg) **Sailing provides a unique environment to grow and learn.** I have been sailing since I was a kid, first on small dinghies and catamarans, and then on yachts when cruising with my family. Now, as Offshore Captain of the [Oxford University Yacht Club](https://ouyc.co.uk), I organize races and cruises, develop sponsorships opportunities, conduct risk assessments, and contribute as member of the Club’s Junior 
 Committee. I am also in the University sailing team, participating in various competitions including the [British Universities Sailing Association](https://busa.co.uk/) Yachting Championship and the Fastnet Race, usually on a Prima 38 or an Oceanis 37. I mainly sail in the Solent, on the South coast of England between the Isle of Wight and the mainland, where a lot of sailing happens in the United Kingdom, most notably Cowes Week, a major Regatta. The area has phenomenal tides, and the conditions can be particularly challenging, as much in Winter time as during the Summer, teaching resilience! 
 
