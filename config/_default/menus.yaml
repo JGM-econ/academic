@@ -16,6 +16,6 @@ main:
   - name: Vita
     url: /#vita
     weight: 13
-  - name: Other
+  - name: Miscellaneous
     url: other/
     weight: 14
