@@ -9,7 +9,7 @@ text-align: justify
 share: false
 ---
 
-<img style="float: right;" src="Bateau3.jpg">
+<img style="float: left;" src="assets/media/Bateau3.jpg">
 
 
 ![Somewhere in the Solent](Bateau3.jpg) **Sailing provides a unique environment to grow and learn.** I have been sailing since I was a kid, first on small dinghies and catamarans, and then on yachts when cruising with my family. Now, as Offshore Captain of the [Oxford University Yacht Club](https://ouyc.co.uk), I organize races and cruises, develop sponsorships opportunities, conduct risk assessments, and contribute as member of the Club’s Junior 
