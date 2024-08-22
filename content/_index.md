@@ -33,15 +33,15 @@ sections:
           parallax: false
   - block: collection
     id: research
+    image:
+      placement: 1
+      focal_point: 'Center'
+      preview_only: false
+      filename: bandeau_research.jpg
     content:
       title: Research
       banner:
         image: "bandeau_research.jpg"
-      image:
-        placement: 1
-        focal_point: 'Center'
-        preview_only: false
-        filename: bandeau_research.jpg
       text: "My current research revolves around the impact of macroeconomic shocks on asset prices and, conversely, how asset prices reflect expectations of macroeconomic variables, accounting for financial market microstructure frictions."
       filters:
         folders:
