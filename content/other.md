@@ -27,12 +27,12 @@ I have been sailing since I was a kid, first on small dinghies and catamarans, a
 
 {{< image-wrap src="media/JG3.jpg" alt="Sailing on the Solent" align="right" >}}
 
-I am also in the University sailing team, participating in various competitions including the [British Universities Sailing Association](https://busa.co.uk/) Yachting Championship and the Fastnet Race, usually on a Prima 38 or an Oceanis 37. I mainly sail in the Solent, on the South coast of England between the Isle of Wight and the mainland, where a lot of sailing happens in the United Kingdom, most notably Cowes Week, a major Regatta. The area has phenomenal tides, and the conditions can be particularly challenging, as much in Winter time as during the Summer, teaching resilience! 
+I am also in the University sailing team, participating in various competitions including the [British Universities Sailing Association](https://busa.co.uk/) Yachting Championship and the Fastnet Race, usually on a Prima 38 or an Oceanis 37. I mainly sail in the Solent, on the South coast of England between the Isle of Wight and the mainland, a hotspot of British sailing, with most notably Cowes Week, a major Regatta. The area has phenomenal tides, and the conditions can be particularly challenging, as much in Winter time as during the Summer, undoubtedly fostering resilience! 
 
 <div class="clear">
 </div>
 
-Sailing is a sport in which I developed leadership and management skills that I use in my professional and academic career. I have been struck by the parallels between sailing and the challenges faced in work contexts, particularly around leadership, risk management, and teamwork. I have outlined below some of these key lessons I learned. As such, I feel that **sailing is an incredible school of business and management!**
+Sailing is a sport in which I developed leadership and management skills that I use in my professional and academic career. I have been struck by the parallels between sailing and the challenges faced in work contexts, particularly around leadership, risk management, and teamwork. Outlined below are some of these key lessons. As such, I feel that **sailing is an incredible school of business and management!**
 
 {{< image-wrap src="media/JG7.jpg" alt="Sailing on the Solent" >}}
 
@@ -54,7 +54,7 @@ Contrary to smaller boats like dinghies, yacht racing requires a full crew with 
 
 {{< image-wrap src="media/JG6.jpg" alt="Sailing on the Solent" align="left" >}}
 
-**Communication is key.** There are indeed many, many things happening at the same time. This is true both on the boat, e.g. during a maneuver that requires coordination across the crew, and outside of it, e.g. the other boats, the marks or the dangers in the water. It is very easy to get overloaded with information, but lack of communication can likewise be dangerous given the number of moving parts on the boat.
+**Communication is key.** There are indeed many, many things happening at the same time. From a maneuver that requires coordination across the crew to external factors such as the other boats, the marks or the dangers in the water, communication is at the center of everything. It is very easy to get overloaded with information, but lack of communication can likewise be dangerous given the number of moving parts on the boat.
 
 <div class="clear">
 </div>
