@@ -39,7 +39,9 @@ Sailing is a sport in which I developed leadership and management skills that I 
 
 #### A Team Sport
 
-Contrary to smaller boats like dinghies, yacht racing requires a full crew with each member fulfilling a specific role. A typical crew of about eight people is usually divided into the following roles:
+Contrary to smaller boats like dinghies, yacht racing requires a full crew with each member fulfilling a specific role. A typical crew of about eight people is usually divided into the following roles: Helm, Tactician, Main Trimmer, Jib Trimmers, Pit, Mast, and Bow.
+
+{{< spoiler text="More on the roles:" >}}
 -	the Helm steers the boat to sail it fast and on course,
 -	the Tactician designs the strategy and course,
 -	the Main Trimmer adjusts the mainsail to optimize speed,
@@ -47,6 +49,7 @@ Contrary to smaller boats like dinghies, yacht racing requires a full crew with 
 -	the Pit manages the lines, especially during sail hoists and drops,
 -	the Mast changes the sails and assists with the rigging,
 -	the Bow manages the front of the boat during maneuvers, especially when changing sails.
+{{< /spoiler >}}
 
 <div class="clear">
 </div>
