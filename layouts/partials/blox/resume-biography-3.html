@@ -41,7 +41,7 @@
 
 <div id="profile" class="flex justify-center items-center flex-col">
   {{ if $avatar }}
-    <div class="avatar-wrapper mx-0 my-10">
+    <div class="avatar-wrapper items-center mx-0 my-10">
       <!-- Increase the avatar size as required -->
       {{ $avatar_image := $avatar.Fill "270x270 Center" }}
       <img class="avatar rounded-full bg-white dark:bg-gray-800" src="{{ $avatar_image.RelPermalink }}" alt="{{$person_page.Title}}"
@@ -147,8 +147,8 @@
         <li class="flex items-start gap-3">
           {{ partial "functions/get_icon" (dict "name" "academic-cap" "attributes" "style=\"\" class='flex-shrink-0 w-5 h-5 me-2 mt-1'") }}
           <div class="description">
-            <p class="course">{{ .area }}{{ with .year }}, {{ . }}{{ end }}</p>
-            <p class="text-sm">{{ .institution }}</p>
+            <p class="course">{{ .area }}</p>
+            <p class="text-sm">{{ .institution }}{{ with .year }}, {{ . }}{{ end }}</p>
           </div>
         </li>
         {{ end }}
