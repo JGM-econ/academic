@@ -36,7 +36,7 @@ sections:
     content:
       title: Research
       header:
-        image: uploads/bandeau_research.jpg
+        image: "uploads/bandeau_research.jpg"
       text: "My current research revolves around the impact of macroeconomic shocks on asset prices and, conversely, how asset prices reflect expectations of macroeconomic variables, accounting for financial market microstructure frictions."
       filters:
         folders:
