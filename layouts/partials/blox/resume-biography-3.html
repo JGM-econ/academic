@@ -41,7 +41,7 @@
 
 <div id="profile" class="flex justify-center items-center flex-col">
   {{ if $avatar }}
-    <div class="avatar-wrapper mt-10">
+    <div class="avatar-wrapper mt-100">
       <!-- Increase the avatar size as required -->
       {{ $avatar_image := $avatar.Fill "200x200 Center" }}
       <img class="avatar rounded-full bg-white dark:bg-gray-800 p-1" src="{{ $avatar_image.RelPermalink }}" alt="{{$person_page.Title}}"
