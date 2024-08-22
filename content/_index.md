@@ -33,11 +33,8 @@ sections:
           parallax: false
   - block: collection
     id: research
-    image:
-      placement: 1
-      focal_point: 'Center'
-      preview_only: false
-      filename: bandeau_research.jpg
+    banner:
+      image: "bandeau_research.jpg"
     content:
       title: Research
       banner:
@@ -51,6 +48,11 @@ sections:
       view: citation
   - block: collection
     id: teaching
+    image:
+      placement: 1
+      focal_point: 'Center'
+      preview_only: false
+      filename: bandeau_research.jpg
     content:
       title: Teaching
       text: "I am a Teaching Assistant in Macroeconomics (Graduate) and Finance (Undergraduate) for the Department of Economics and the Saïd Business School at the University of Oxford. During my classes, I have had the opportunity to deeply engage with students and contribute to their academic and personal development. My commitment to teaching is centered around inclusivity, a dual approach combining mathematical rigor and intuitive understanding, and providing students with additional resources and career guidance. My teaching has been distinguished by a teaching award."
