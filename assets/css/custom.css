@@ -1,5 +1,7 @@
 .image-wrap {
-    margin: 10px;
+    margin: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 .image-wrap.left {
@@ -17,14 +19,20 @@
     height: auto;
 }
 
+.clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
 
 .text-justify {
     text-align: justify;
 }
 
-
-.content {
-    max-width: 80%; /* Increase the content width */
-    margin: 0 auto; /* Center the content */
-    padding: 10px; /* Adjust padding as needed */
+.text-center {
+    text-align: center;
 }
+
+

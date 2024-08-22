@@ -2,19 +2,22 @@
 header:
   caption: ""
   image: "media/bandeau_sailing1.jpg"
-title: Sailing ⛵
+title: ""
 type: page
 reading_time: false
 text-align: justify
 share: false
 ---
 
+<h1 class="text-center">Sailing ⛵</h1>
+
+
 <div class="text-justify">
 
 {{< image-wrap src="media/bandeau_sailing1.jpg" alt="Sailing on the Solent" >}}
 
 
-**Sailing provides a unique environment to grow and learn.**
+### A unique environment to grow and learn
 
 {{< image-wrap src="media/Bateau3.jpg" alt="Sailing on the Solent" align="left" >}}
 
