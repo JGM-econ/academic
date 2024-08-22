@@ -72,6 +72,9 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
+    button:
+      text: Download my CV
+      url: uploads/Academic_CV.pdf
   - block: markdown
     id: disclaimer
     content:

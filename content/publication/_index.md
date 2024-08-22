@@ -9,7 +9,10 @@ view: citation
 banner:
   caption: ''
   image: 'bandeau_research.jpg'
+  
+image:
+  placement: 1
+  focal_point: 'Center'
+  preview_only: false
+  filename: bandeau_research.jpg
 ---
-
-
-test
