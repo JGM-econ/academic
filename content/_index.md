@@ -48,11 +48,6 @@ sections:
       view: citation
   - block: collection
     id: teaching
-    image:
-      placement: 1
-      focal_point: 'Center'
-      preview_only: false
-      filename: bandeau_research.jpg
     content:
       title: Teaching
       text: "I am a Teaching Assistant in Macroeconomics (Graduate) and Finance (Undergraduate) for the Department of Economics and the Saïd Business School at the University of Oxford. During my classes, I have had the opportunity to deeply engage with students and contribute to their academic and personal development. My commitment to teaching is centered around inclusivity, a dual approach combining mathematical rigor and intuitive understanding, and providing students with additional resources and career guidance. My teaching has been distinguished by a teaching award."
@@ -79,15 +74,20 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
-    button:
-      text: Download my CV
-      url: uploads/Academic_CV.pdf
   - block: markdown
     id: disclaimer
     content:
       text: "{{% callout %}}
 **Disclaimer:** Any views expressed are solely mine. In particular, these views should therefore not be reported as representing the views of the Bank of England or members of the Monetary Policy Committee, Financial Policy Committee, or Prudential Regulation Committee.
 {{% /callout %}}"
+  - block: markdown
+    banner:
+      image: "bandeau_research.jpg"
+    image:
+      placement: 1
+      focal_point: 'Center'
+      preview_only: false
+      filename: bandeau_research.jpg
 
 ---
 
