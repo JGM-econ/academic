@@ -49,6 +49,8 @@ sections:
     content:
       title: Teaching
       text: "I am a Teaching Assistant in Macroeconomics (Graduate) and Finance (Undergraduate) for the Department of Economics and the Saïd Business School at the University of Oxford. During my classes, I have had the opportunity to deeply engage with students and contribute to their academic and personal development. My commitment to teaching is centered around inclusivity, a dual approach combining mathematical rigor and intuitive understanding, and providing students with additional resources and career guidance. My teaching has been distinguished by a teaching award."
+      #{{< cta cta_text="Full teaching statement" cta_link="uploads/Teaching_statement.pdf" cta_new_tab="true" >}}
+      #{{% staticref "uploads/Teaching_statement.pdf" "newtab" %}}Full teaching statement{{% /staticref %}}
       filters:
         folders:
           - teaching
