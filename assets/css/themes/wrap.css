@@ -1,0 +1,27 @@
+.image-wrap {
+    margin: 15px;
+}
+
+.image-wrap.left {
+    float: left;
+    margin-right: 20px;
+    width: 40%;
+}
+
+.image-wrap.right {
+    float: right;
+    margin-left: 20px;
+    width: 40%;
+}
+
+.image-wrap img {
+    max-width: 100%;
+    height: auto;
+}
+
+.image-wrap figcaption {
+    font-size: 0.9em;
+    color: #555;
+    text-align: center;
+    margin-top: 5px;
+}
