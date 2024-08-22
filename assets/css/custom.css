@@ -29,13 +29,11 @@
     clear: both;
 }
 
-
-p.text-justify {
+.text-justify {
     text-align: justify;
 }
 
-
-.text-justify {
+p {
     text-align: justify;
 }
 
