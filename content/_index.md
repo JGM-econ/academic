@@ -44,7 +44,7 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
+  - block: markdown
     id: teaching
     content:
       title: Teaching
