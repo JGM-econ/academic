@@ -1,4 +1,4 @@
-{{ $image := resources.Get .Get "src" }}
+{{ $image := resources.Get (.Get "src") }}
 <div class="image-wrap {{ .Get "align" }}">
     <img src="{{ $image.Permalink }}" alt="{{ .Get "alt" }}">
     {{ if .IsNamedParams }}
