@@ -25,6 +25,14 @@
     clear: both;
 }
 
+.clear {
+    clear: both;
+}
+
+
+p.text-justify {
+    text-align: justify;
+}
 
 
 .text-justify {
