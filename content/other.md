@@ -19,9 +19,8 @@ share: false
 
 {{< image-wrap src="media/Bateau3.jpg" alt="Sailing on the Solent" align="left" >}}
 
-<div class="text-justify">
+<p class="text-justify">
 I have been sailing since I was a kid, first on small dinghies and catamarans, and then on yachts when cruising with my family. Now, as Offshore Captain of the [Oxford University Yacht Club](https://ouyc.co.uk), I organize races and cruises, develop sponsorship opportunities, conduct risk assessments, and contribute as member of the Club’s Junior Committee.
-</div>
 
 <div class="clear">
 </div>
