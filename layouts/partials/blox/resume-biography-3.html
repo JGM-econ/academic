@@ -39,44 +39,40 @@
   {{ end }}
   {{ end }}
 
-<div id="profile" class="flex justify-center items-center flex-col">
-  {{ if $avatar }}
-    <div class="avatar-wrapper items-center mx-0 my-10">
-      <!-- Increase the avatar size as required -->
+  <div id="profile" class="flex justify-center items-center flex-col">
+    {{ if $avatar }}
+
+    <div class="avatar-wrapper {{ if $img }}-mt-[105px]{{else}}mt-10{{end}}">
       {{ $avatar_image := $avatar.Fill "250x250 Center" }}
-      <img class="avatar rounded-full bg-white dark:bg-gray-800" src="{{ $avatar_image.RelPermalink }}" alt="{{$person_page.Title}}"
+      <img class="avatar rounded-full bg-white dark:bg-gray-800 p-1" src="{{ $avatar_image.RelPermalink }}" alt="{{$person_page.Title}}"
            width="{{ $avatar_image.Width }}" height="{{ $avatar_image.Height }}">
-      {{ with $person.status.icon }}<span class="avatar-emoji">{{ . | emojify }}</span>{{ end }}
-    </div>
-  {{ end }}
-
-  <div class="portrait-title dark:text-white text-center">
-    <div class="text-3xl font-bold mt-10">
-      {{ if $person.name_pronunciation }}
-        <ruby>
-          <rb>{{ $person_page.Title }}</rb>
-          <rt>{{ $person.name_pronunciation }}</rt>
-        </ruby>
-      {{ else }}
-        {{ $person_page.Title }}
-      {{ end }}
-    </div>
-
-    {{ with $person.role }}
-    <h3 class="font-semibold mb-1">{{ . | markdownify | emojify }}</h3>
-    {{ end }}
-
-    {{ range $person.organizations }}
-    <div class="mb-2">
-      {{ with .url }}
-      <a href="{{ . }}" target="_blank" rel="noopener">
-      {{ end }}
-      <div>{{ .name }}</div>
-      {{ if .url }}</a>{{ end }}
+      {{with $person.status.icon}}<span class="avatar-emoji">{{.|emojify}}</span>{{end}}
     </div>
     {{ end }}
-  </div>
 
+    <div class="portrait-title dark:text-white">
+
+      <div class="text-3xl font-bold mb-2 mt-6">
+        {{- if $person.name_pronunciation -}}
+          <ruby>
+            <rb>{{ $person_page.Title }}</rb>
+            <rt>{{ $person.name_pronunciation }}</rt>
+          </ruby>
+        {{- else -}}
+          {{- $person_page.Title -}}
+        {{- end -}}
+      </div>
+
+      {{ with $person.role }}<h3 class="font-semibold mb-1">{{ . | markdownify | emojify }}</h3>{{ end }}
+
+      {{ range $person.organizations }}
+      <div class="mb-2">
+        {{ with .url }}<a href="{{ . }}" target="_blank" rel="noopener">{{ end }}
+        <div>{{ .name }}</div>
+        {{ if .url }}</a>{{ end }}
+      </div>
+      {{ end }}
+    </div>
 
     <ul class="network-icon dark:text-zinc-100">
       {{ range $person.profiles }}
