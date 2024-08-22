@@ -4,13 +4,11 @@
 
 .image-wrap.left {
     float: left;
-    margin-right: 10px;
     width: 45%;
 }
 
 .image-wrap.right {
     float: right;
-    margin-left: 10px;
     width: 45%;
 }
 
@@ -28,5 +26,5 @@
 .content {
     max-width: 80%; /* Increase the content width */
     margin: 0 auto; /* Center the content */
-    padding: 20px; /* Adjust padding as needed */
+    padding: 10px; /* Adjust padding as needed */
 }
