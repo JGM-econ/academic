@@ -9,7 +9,7 @@ text-align: justify
 share: false
 ---
 
-<h3 class="text-center">Sailing ⛵</h3
+<h3 class="text-center">Sailing ⛵</h3>
 
 
 {{< image-wrap src="media/bandeau_sailing1.jpg" alt="Sailing on the Solent" >}}
