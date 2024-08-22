@@ -35,8 +35,8 @@ sections:
     id: research
     content:
       title: Research
-      header:
-        image: "uploads/bandeau_research.jpg"
+      banner:
+        image: "bandeau_research.jpg"
       text: "My current research revolves around the impact of macroeconomic shocks on asset prices and, conversely, how asset prices reflect expectations of macroeconomic variables, accounting for financial market microstructure frictions."
       filters:
         folders:
@@ -76,7 +76,6 @@ sections:
   - block: markdown
     id: disclaimer
     content:
-      text-align: justify
       text: "{{% callout %}}
 **Disclaimer:** Any views expressed are solely mine. In particular, these views should therefore not be reported as representing the views of the Bank of England or members of the Monetary Policy Committee, Financial Policy Committee, or Prudential Regulation Committee.
 {{% /callout %}}"
