@@ -19,7 +19,12 @@ Sailing is a sport in which I developed leadership and management skills that I 
 
 ### A Team Sport
 
-![Somewhere in the Solent](Bateau3.jpg){.image-left}
+![Somewhere in the Solent](Bateau3.jpg)
+
+{{< div class="text-justify" >}}
+This text will be justified, making it align evenly along both the left and right margins, which gives your content a clean, aligned look.
+{{< /div >}}
+
 
 Contrary to smaller boats like dinghies, yacht racing requires a full crew with each member fulfilling a specific role. A typical crew of about eight people is usually divided into the following roles:
 -	the Helm steers the boat to sail it fast and on course,

@@ -1,17 +1,17 @@
 .image-wrap {
-    margin: 15px;
+    margin: 10px;
 }
 
 .image-wrap.left {
     float: left;
-    margin-right: 20px;
-    width: 40%;
+    margin-right: 10px;
+    width: 45%;
 }
 
 .image-wrap.right {
     float: right;
-    margin-left: 20px;
-    width: 40%;
+    margin-left: 10px;
+    width: 45%;
 }
 
 .image-wrap img {
@@ -19,9 +19,14 @@
     height: auto;
 }
 
-.image-wrap figcaption {
-    font-size: 0.9em;
-    color: #555;
-    text-align: center;
-    margin-top: 5px;
+
+.text-justify {
+    text-align: justify;
+}
+
+
+.content {
+    max-width: 80%; /* Increase the content width */
+    margin: 0 auto; /* Center the content */
+    padding: 20px; /* Adjust padding as needed */
 }
