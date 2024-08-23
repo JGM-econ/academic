@@ -1,4 +1,4 @@
-<svg id="visual" viewBox="0 0 960 576" width="960" height="576" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<svg id="visual" viewBox="0 0 960 540" width="960" height="540" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
   <!-- Darker shade for depth -->
   <path d="M0 104L87 158L175 125L262 131L349 163L436 163L524 168L611 174L698 136L785 104L873 125L960 147L960 0L873 0L785 0L698 0L611 0L524 0L436 0L349 0L262 0L175 0L87 0L0 0Z" fill="#00091b"></path>
   <!-- Mid-dark shade for the background -->

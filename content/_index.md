@@ -74,6 +74,9 @@ sections:
         filename: "francfort.jpeg"
       title: Vita
       username: admin
+      button:
+        text: Download my CV
+        url: uploads/Academic_CV.pdf
     design:
       # Hugo date format
       date_format: 'January 2006'
