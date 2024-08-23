@@ -56,3 +56,7 @@ p {
   max-height: 225px;
   object-fit: cover;
 }
+
+.callout {
+  text-align: justify;
+}
