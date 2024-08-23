@@ -51,7 +51,7 @@ interests:
   - Macrofinance
 
 education:
-  - area: PhD (DPhil) in Economics
+  - area: PhD in Economics
     institution: University of Oxford
     year: 2026 (expected)
     date_start: 2021-10-01

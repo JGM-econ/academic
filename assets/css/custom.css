@@ -60,3 +60,46 @@ p {
 .callout {
   text-align: justify;
 }
+
+
+.teaching-section {
+    display: flex;
+    flex-direction: column;
+    gap: 20px; /* Space between each course block */
+}
+
+.course-block {
+    display: flex;
+    align-items: center;
+    padding: 15px;
+    border: 1px solid #ddd; /* Optional: Add a border */
+    border-radius: 8px; /* Rounded corners */
+    background-color: #f9f9f9; /* Background color */
+}
+
+.course-logo {
+    width: 80px; /* Adjust the logo size */
+    height: auto;
+    margin-right: 20px; /* Space between logo and details */
+}
+
+.course-details {
+    flex: 1; /* Allow course details to take the remaining space */
+}
+
+.course-title {
+    font-size: 1.5em;
+    margin: 0;
+}
+
+.course-years {
+    font-size: 1em;
+    color: #555; /* Lighter color for academic years */
+    margin-bottom: 10px;
+}
+
+.course-description {
+    font-size: 1em;
+    color: #333; /* Main text color */
+    text-align: justify; /* Justify text */
+}
