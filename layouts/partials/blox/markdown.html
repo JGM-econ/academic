@@ -30,5 +30,6 @@
 
   <!-- Text Section -->
   {{/* We use DIV rather than P to support `prose` class and multiple paragraphs */}}
-  {{ with $text }}<div class="prose prose-slate lg:prose-xl dark:prose-invert max-w-prose">{{ . }}</div>{{ end }}
+  {{ with $text }}<p>{{ . | emojify | $page.RenderString }}</p>{{ end }}
+    
 </div>

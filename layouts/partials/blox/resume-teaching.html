@@ -26,7 +26,7 @@
 
   <!-- Text Section -->
   {{/* We use DIV rather than P to support `prose` class and multiple paragraphs */}}
-  {{ with $text }}<div class="prose prose-slate justify-content-center lg:prose-xl dark:prose-invert max-w-prose">{{ . }}</div>{{ end }}
+  {{ with $text }}<p>{{ . | emojify | $page.RenderString }}</p>{{ end }}
   
   
     {{ with $block.content.button }}
@@ -41,7 +41,7 @@
   
   <div class="teaching-section">
     <div class="course-block">
-        <img src="media/teaching-macro.png" alt="Macro" class="course-logo">
+        <img src="/media/teaching-macro.png" alt="Macro" class="course-logo">
         <div class="course-details">
             <h4 class="course-title">Macroeconomics (Graduate)</h4>
             <span class="course-years">2022-2025</span>
