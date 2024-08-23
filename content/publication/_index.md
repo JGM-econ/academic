@@ -10,5 +10,8 @@ banner:
   caption: ''
   image: ''
 
-
+cascade:
+  _build:
+    render: never
+    list: always
 ---
