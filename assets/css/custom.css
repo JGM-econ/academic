@@ -43,8 +43,8 @@ p {
 
 .avatar-wrapper {
   position: relative;
-  width: 250px; /* Match image size in about.avatar widget */
-  height: 250px;
+  width: 225px; /* Match image size in about.avatar widget */
+  height: 225px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -52,7 +52,7 @@ p {
 .avatar {
   width: auto;
   height: auto;
-  max-width: 250px;
-  max-height: 250px;
+  max-width: 225px;
+  max-height: 225px;
   object-fit: cover;
 }

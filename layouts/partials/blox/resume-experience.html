@@ -48,7 +48,7 @@
     <!-- Experience Section -->
     {{ if $person.work }}
     <div class="w-full lg:w-1/2">
-      <h3 class="mb-6 text-3xl font-bold text-gray-900 dark:text-white">{{ i18n "experience" | default "Experience" }}</h3>
+      <h4 class="mb-6 text-3xl font-bold text-gray-900 dark:text-white">{{ i18n "experience" | default "Experience" }}</h4>
       <ol class="relative border-s border-gray-200 dark:border-gray-700">
         {{ range $idx, $key := $person.work }}
         <li class="mb-10 ms-6">
@@ -83,7 +83,7 @@
     <!-- Education Section -->
     {{ if $person.education }}
     <div class="w-full lg:w-1/2">
-      <h3 class="mb-6 text-3xl font-bold text-gray-900 dark:text-white">{{ i18n "education" }}</h3>
+      <h4 class="mb-6 text-3xl font-bold text-gray-900 dark:text-white">{{ i18n "education" }}</h4>
       <ol class="relative border-s border-gray-200 dark:border-gray-700">
         {{ range $idx, $key := $person.education }}
         <li class="mb-10 ms-6">
