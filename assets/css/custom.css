@@ -72,9 +72,6 @@ p {
     display: flex;
     align-items: center;
     padding: 15px;
-    border: 1px solid #ddd; /* Optional: Add a border */
-    border-radius: 8px; /* Rounded corners */
-    background-color: #f9f9f9; /* Background color */
 }
 
 .course-logo {
@@ -88,18 +85,15 @@ p {
 }
 
 .course-title {
-    font-size: 1.5em;
     margin: 0;
 }
 
 .course-years {
-    font-size: 1em;
     color: #555; /* Lighter color for academic years */
     margin-bottom: 10px;
 }
 
 .course-description {
-    font-size: 1em;
     color: #333; /* Main text color */
     text-align: justify; /* Justify text */
 }
