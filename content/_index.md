@@ -64,15 +64,13 @@ sections:
         view: showcase
         # For the Showcase view, do you want to flip alternate rows?
         flip_alt_rows: true
-  - block: markdown
+  - block: resume-experience
     id: vita
     design:
       banner:
         filename: "francfort.jpeg"
     content:
       title: Vita
-  - block: resume-experience
-    content:
       username: admin
     design:
       # Hugo date format
