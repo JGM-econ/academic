@@ -11,7 +11,7 @@
 <div class="flex flex-col items-center max-w-prose mx-auto gap-3 justify-center">
 
   <!-- Banner Section -->
-  {{ $banner := $block.design.banner.filename }}
+  {{ $banner := $block.content.banner.filename }}
   {{ if $banner }}
   {{ $bannerImage := resources.Get (path.Join "media" $banner) }}
   {{ if $bannerImage }}

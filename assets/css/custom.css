@@ -41,18 +41,18 @@ p {
     text-align: center;
 }
 
-  .avatar {
-    width: auto;
-    height: auto;
-    max-width: 250px;
-    max-height: 250px;
-    object-fit: cover;
-  }
-
 .avatar-wrapper {
   position: relative;
   width: 250px; /* Match image size in about.avatar widget */
   height: 250px;
   margin-left: auto;
   margin-right: auto;
+}
+
+.avatar {
+  width: auto;
+  height: auto;
+  max-width: 250px;
+  max-height: 250px;
+  object-fit: cover;
 }

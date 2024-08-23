@@ -21,7 +21,7 @@
 
   <!-- Banner Section -->
   {{ $img := "" }}
-  {{ with $block.design.banner.filename }}
+  {{ with $block.content.banner.filename }}
   {{- $img = resources.Get (path.Join "media" .) -}}
   {{ if $img }}
     {{- $img = $img.Process "webp" -}}
