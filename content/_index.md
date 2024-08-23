@@ -31,15 +31,16 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: collection
+  - block: markdown
     id: research
-    banner:
-      image: "bandeau_research.jpg"
+    design:
+      banner:
+        filename: "bandeau_research.jpg"
     content:
       title: Research
-      banner:
-        image: "bandeau_research.jpg"
       text: "My current research revolves around the impact of macroeconomic shocks on asset prices and, conversely, how asset prices reflect expectations of macroeconomic variables, accounting for financial market microstructure frictions."
+  - block: collection
+    content:
       filters:
         folders:
           - publication
@@ -63,10 +64,14 @@ sections:
         view: showcase
         # For the Showcase view, do you want to flip alternate rows?
         flip_alt_rows: true
-  - block: resume-experience
+  - block: markdown
     id: vita
+    design:
+      banner:
+        filename: "francfort.jpeg"
     content:
       title: Vita
+  - block: resume-experience
     content:
       username: admin
     design:
@@ -80,12 +85,6 @@ sections:
       text: "{{% callout %}}
 **Disclaimer:** Any views expressed are solely mine. In particular, these views should therefore not be reported as representing the views of the Bank of England or members of the Monetary Policy Committee, Financial Policy Committee, or Prudential Regulation Committee.
 {{% /callout %}}"
-  - block: markdown
-    design:
-      banner:
-        filename: "bandeau_research.jpg"
-    content:
-      title: Teaching
 
 ---
 

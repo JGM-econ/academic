@@ -9,10 +9,9 @@ text-align: justify
 share: false
 ---
 
-<h3 class="text-center">Sailing ⛵</h3>
-
-
 {{< image-wrap src="media/bandeau_sailing1.jpg" alt="Sailing on the Solent" >}}
+
+<h3 class="text-center">Sailing ⛵</h3>
 
 
 #### A unique environment to grow and learn
