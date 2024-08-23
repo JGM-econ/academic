@@ -39,6 +39,9 @@ sections:
     content:
       title: Research
       text: "My current research revolves around the impact of macroeconomic shocks on asset prices and, conversely, how asset prices reflect expectations of macroeconomic variables, accounting for financial market microstructure frictions."
+      button:
+        text: "Download my Research Statement"
+        url: uploads/Research_statement.pdf
       filters:
         folders:
           - publication
