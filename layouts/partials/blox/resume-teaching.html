@@ -49,12 +49,13 @@
             <p class="course-description">This course covers...</p>
         </div>
     </div>
+    {{ $LogoFinance := resources.Get (path.Join "media" "teaching-finance.jpg") }}
     <div class="course-block">
-        <img src="media/teaching-finance.jpg" alt="Finance" class="course-logo">
+        <img src="{{ $LogoFinance.RelPermalink }}" alt="Finance" class="course-logo">
         <div class="course-details">
-            <h4 class="course-title">Macroeconomics (Undergraduate)</h4>
+            <h4 class="course-title">Finance (Undergraduate)</h4>
             <span class="course-years">2023-2025</span>
-            <p class="course-description">This Final Honors School undergraduate course covers...</p>
+            <p class="course-description">This Final Honors School undergraduate course for students in Philosophy, Politics and Economics and Economics and Management covers Asset Pricing and Corporate Finance. The first part focuses on models of finance (modern portfolio theory, CAPM, APT), as well as deviations from rational expectations. The second part investigates the role of the capital structure, banks and financial crises and topics in nternational finance.</p>
         </div>
     </div>
 </div>

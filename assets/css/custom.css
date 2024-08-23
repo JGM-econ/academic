@@ -75,7 +75,7 @@ p {
 }
 
 .course-logo {
-    width: 80px; /* Adjust the logo size */
+    width: 160px; /* Adjust the logo size */
     height: auto;
     margin-right: 20px; /* Space between logo and details */
 }
