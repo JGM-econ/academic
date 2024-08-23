@@ -2,11 +2,11 @@
 title: "Can the ECB’s monetary policy compress the redenomination risk for euro area countries?"
 authors:
 - admin
-date: "Work in progress"
+date: "2018-01-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2018-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -14,8 +14,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "*Work in progress*"
 
 abstract: ""
 
