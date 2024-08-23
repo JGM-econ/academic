@@ -89,12 +89,12 @@ p {
 }
 
 .course-years {
-    color: #555; /* Lighter color for academic years */
+    color: #000; /* Lighter color for academic years */
     margin-bottom: 10px;
 }
 
 .course-description {
     color: #333; /* Main text color */
     text-align: justify; /* Justify text */
-    font-size: 0.75em;
+    font-size: 1em;
 }
