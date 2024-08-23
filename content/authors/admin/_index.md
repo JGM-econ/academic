@@ -76,7 +76,7 @@ work:
     company_url: https://www.bankofengland.co.uk/
     company_logo: Bank_of_England_Logo.png
     date_start: 2023-09-25
-    date_end: 2023-12-15
+    date_end: 2024-11-15
     summary: ''
   - position: Market Economist in Financial Stability
     company_name: Banque de France
