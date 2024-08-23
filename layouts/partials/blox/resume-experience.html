@@ -18,17 +18,23 @@
 {{ $is_education_first := $block.design.is_education_first | default false }}
 
 <div class="flex flex-col items-center max-w-prose mx-auto">
-  
-    <!-- Banner Section -->
-  {{ $banner := $block.design.banner.filename }}
-  {{ if $banner }}
-  {{ $bannerImage := resources.Get (path.Join "media" $banner) }}
-  {{ if $bannerImage }}
-  <div class="w-full bg-gray-200 dark:bg-gray-900 flex justify-center mb-6">
-    <img class="w-full h-auto object-cover"
-         src="{{ $bannerImage.RelPermalink }}"
-         alt="Banner Image">
-  </div>
+
+  <!-- Banner Section -->
+  {{ $img := "" }}
+  {{ with $block.design.banner.filename }}
+  {{- $img = resources.Get (path.Join "media" .) -}}
+  {{ if $img }}
+    {{- $img = $img.Process "webp" -}}
+    <div class="w-full bg-gray-200 dark:bg-gray-900 flex flex-wrap items-center justify-center mb-6">
+      <div class="w-full bg-white rounded dark:bg-gray-800">
+        <div class="h-2/4 sm:h-64 overflow-hidden w-full">
+          <img class="w-full object-cover"
+               src="{{$img.RelPermalink}}"
+               width="{{$img.Width}}" height="{{$img.Height}}"
+               alt="" />
+        </div>
+      </div>
+    </div>
   {{ end }}
   {{ end }}
 
@@ -36,7 +42,8 @@
   <div class="mb-6 text-3xl font-bold text-gray-900 dark:text-white">
     {{ $title }}
   </div>
-  
+
+  <!-- Experience and Education Sections -->
   <div class="flex flex-col lg:flex-row w-full px-6 sm:px-0 gap-x-6">
     <!-- Experience Section -->
     {{ if $person.work }}
@@ -109,4 +116,3 @@
     {{ end }}
   </div>
 </div>
-

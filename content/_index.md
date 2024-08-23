@@ -31,7 +31,7 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
+  - block: collection
     id: research
     design:
       banner:
@@ -39,8 +39,6 @@ sections:
     content:
       title: Research
       text: "My current research revolves around the impact of macroeconomic shocks on asset prices and, conversely, how asset prices reflect expectations of macroeconomic variables, accounting for financial market microstructure frictions."
-  - block: collection
-    content:
       filters:
         folders:
           - publication
@@ -49,6 +47,9 @@ sections:
       view: citation
   - block: collection
     id: teaching
+    design:
+      banner:
+        filename: "oxford.jpg"
     content:
       title: Teaching
       text: "I am a Teaching Assistant in Macroeconomics (Graduate) and Finance (Undergraduate) for the Department of Economics and the Saïd Business School at the University of Oxford. During my classes, I have had the opportunity to deeply engage with students and contribute to their academic and personal development. My commitment to teaching is centered around inclusivity, a dual approach combining mathematical rigor and intuitive understanding, and providing students with additional resources and career guidance. My teaching has been distinguished by a teaching award."
