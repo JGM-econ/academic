@@ -70,14 +70,14 @@ p {
 
 .course-block {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     padding: 15px;
 }
 
 .course-logo {
     width: 250px; /* Adjust the logo size */
     height: auto;
-    margin-right: 20px; /* Space between logo and details */
+    margin-right: 10px; /* Space between logo and details */
 }
 
 .course-details {
@@ -96,5 +96,15 @@ p {
 .course-description {
     color: #333; /* Main text color */
     text-align: justify; /* Justify text */
-    font-size: 1em;
+    font-size: 0.85em;
 }
+
+@media (max-width: 768px) {
+  .course {
+    max-width: 100%; /* Ensure it fits the screen on smaller devices */
+  }
+
+@media (max-width: 480px) {
+  .course-logo {
+    width: 125px; /* Smaller logo size for mobile */
+  }
