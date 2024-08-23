@@ -2,7 +2,7 @@
 title: "Can the ECB’s monetary policy compress the redenomination risk for euro area countries?"
 authors:
 - admin
-date: "2018-01-01"
+date: "2019-01-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
