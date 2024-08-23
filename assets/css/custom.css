@@ -106,5 +106,5 @@ p {
 
 @media (max-width: 480px) {
   .course-logo {
-    width: 125px; /* Smaller logo size for mobile */
+    width: 150px; /* Smaller logo size for mobile */
   }
