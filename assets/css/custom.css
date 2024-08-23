@@ -75,7 +75,7 @@ p {
 }
 
 .course-logo {
-    width: 200px; /* Adjust the logo size */
+    width: 250px; /* Adjust the logo size */
     height: auto;
     margin-right: 20px; /* Space between logo and details */
 }
@@ -96,5 +96,5 @@ p {
 .course-description {
     color: #333; /* Main text color */
     text-align: justify; /* Justify text */
-    font-size: 0.5em;
+    font-size: 0.75em;
 }
