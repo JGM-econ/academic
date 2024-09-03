@@ -2,7 +2,7 @@
 type: page
 reading_time: false
 text-align: justify
-font-size: 1em
+font-size: 0.9em
 share: false
 ---
 
@@ -91,7 +91,7 @@ Because the conditions can be unpredictable and there are so many parameters and
 
 {{< image-wrap src="media/JG2.jpg" alt="Sailing on the Solent" align="left" >}}
 
-There is nothing more like **developing a business plan** than the necessary planning required before any sailing trip, notwithstanding the budgeting and potential sponsor aspects. Passage planning involves determining the best route, considering the weather, tides, and potential hazards. Provisioning the boat, i.e. anticipating the needs in food and water of the crew (literal liquidity management!), is vital before embarking on a longer trip during which the boat might not stop for a week – but still keeping the boat as light as possible for the race! 
+There is nothing more like **developing a business plan** than the necessary planning required before any sailing trip, notwithstanding the budgeting and potential sponsor aspects. Passage planning involves determining the best route, considering the weather, tides, and potential hazards. Provisioning the boat, i.e. anticipating the needs in food and water of the crew (true liquidity management!), is vital before embarking on a longer trip during which the boat might not stop for a week – but still keeping the boat as light as possible for the race! 
 
 <div class="clear">
 </div>
