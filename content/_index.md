@@ -48,7 +48,7 @@ sections:
     design:
       view: citation
   - block: resume-teaching
-    id: teaching1
+    id: teaching
     content:
       banner:
         filename: "oxford.jpg"
