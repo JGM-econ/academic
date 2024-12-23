@@ -39,7 +39,7 @@ profiles:
     url: https://www.linkedin.com/in/jean-guillaume-magre
   - icon: brands/x
     url: https://x.com/JGMagre
-  - icon: uploads/bluesky.svg
+  - icon: uploads/bluesky
     link: https://bsky.app/profile/jgmagre.bsky.social
   - icon: hero/speaker-wave
     link: uploads/pronunciation.m4a
