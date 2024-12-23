@@ -39,10 +39,11 @@ profiles:
     url: https://www.linkedin.com/in/jean-guillaume-magre
   - icon: brands/x
     url: https://x.com/JGMagre
+  - icon: uploads/bluesky.svg
+    link: https://bsky.app/profile/jgmagre.bsky.social
   - icon: hero/speaker-wave
     link: uploads/pronunciation.m4a
-  - icon: brands/bluesky
-    link: https://bsky.app/profile/jgmagre.bsky.social
+    
     
 # {{< audio src="pronunciation.m4a" >}}
 #    url: https://www.howtopronounce.com/french/jean-guillaume
