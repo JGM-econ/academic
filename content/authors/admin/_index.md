@@ -116,4 +116,4 @@ work:
 
 I am a PhD Candidate in the [Department of Economics](https://www.economics.ox.ac.uk/) and [Corpus Christi College](https://www.ccc.ox.ac.uk) at the [University of Oxford](https://www.ox.ac.uk/), under the supervision of [Professor Michael McMahon](https://mcmahonecon.com/). Before that, I worked in central banking and investment banking.
 
-I am currently interested in topics in Macro-Finance, at the intersection of Monetary Economics, Intermediary Asset Pricing, and Market Microstructure.
+I am interested in topics in Macroeconomics and Finance, currently working at the intersection of Monetary Economics, Intermediary Asset Pricing, and Market Microstructure.
