@@ -79,7 +79,7 @@ work:
     company_url: https://www.bankofengland.co.uk/
     company_logo: Bank_of_England_Logo.png
     date_start: 2023-09-25
-    date_end: 2025-04-15
+    date_end: 2023-12-15
     summary: ''
   - position: Market Economist in Financial Stability
     company_name: Banque de France
@@ -116,4 +116,4 @@ work:
 
 I am a PhD Candidate in the [Department of Economics](https://www.economics.ox.ac.uk/) and [Corpus Christi College](https://www.ccc.ox.ac.uk) at the [University of Oxford](https://www.ox.ac.uk/), under the supervision of [Professor Michael McMahon](https://mcmahonecon.com/). Before that, I worked in central banking and investment banking.
 
-I am interested in topics in Macroeconomics and Finance, currently working at the intersection of Monetary Economics, Intermediary Asset Pricing, and Market Microstructure.
+I am interested in topics in Macroeconomics and Finance, currently working at the intersection of Monetary Economics, Intermediary Asset Pricing, and Market Structure.
