@@ -76,7 +76,7 @@ sections:
     id: disclaimer
     content:
       text: "{{% callout class='callout' %}}
-**Disclaimer:** Any views expressed are solely mine. In particular, these views should therefore not be reported as representing the views of the Bank of England or members of the Monetary Policy Committee, Financial Policy Committee, or Prudential Regulation Committee.
+**Disclaimer:** Any views expressed are solely mine. In particular, these views should therefore not be reported as representing the views of any current or former employer.
 {{% /callout %}}"
 
 ---
