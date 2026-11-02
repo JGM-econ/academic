@@ -2,7 +2,6 @@
 title: "Disentangling the effects of uncertainty and disagreement: A proposal using transaction-level data"
 authors:
 - admin
-- Michael McMahon
 date: ""
 doi: ""
 

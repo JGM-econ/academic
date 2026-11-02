@@ -25,7 +25,7 @@ publication_short: ""
 
 # links:
 # - name: ""
-#   url: ""
+url_pdf: FX_intermediaries_WP.pdf
 url_poster: FX_intermediaries_poster.pdf
 url_slides: FX_intermediaries_presentation.pdf
 

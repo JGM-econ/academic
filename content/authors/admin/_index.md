@@ -74,29 +74,34 @@ education:
     summary: ''
 
 work:
-  - position: PhD Intern in Research
-    company_name: Bank of England
+  - position: PhD Researcher
+    company_name: Monetary Policy, European Central Bank
+    company_url: https://www.ecb.europa.eu/home/html/index.en.html
+    company_logo: european_central_bank_logo.png
+    summary: ''
+  - position: PhD Researcher
+    company_name: CCBS, Bank of England
     company_url: https://www.bankofengland.co.uk/
     company_logo: Bank_of_England_Logo.png
     date_start: 2023-09-25
     date_end: 2023-12-15
     summary: ''
-  - position: Market Economist in Financial Stability
-    company_name: Banque de France
+  - position: Market Economist
+    company_name: Financial Stability, Banque de France
     company_url: https://www.banque-france.fr/
     company_logo: Banque_de_France_logo.png
     date_start: 2020-01-01
     date_end: 2021-09-01
     summary: ''
-  - position: Research Analyst in Monetary Policy
-    company_name: European Central Bank
+  - position: Research Analyst
+    company_name: Monetary Policy, European Central Bank
     company_url: https://www.ecb.europa.eu/home/html/index.en.html
     company_logo: european_central_bank_logo.png
     date_start: 2019-07-01
     date_end: 2019-12-31
     summary: ''
-  - position: Research Analyst in Financial Stability
-    company_name: European Central Bank
+  - position: Research Analyst
+    company_name: Financial Stability, European Central Bank
     company_url: https://www.ecb.europa.eu/home/html/index.en.html
     company_logo: european_central_bank_logo.png
     date_start: 2018-03-01
